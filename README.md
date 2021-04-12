@@ -11,7 +11,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Razer-Cynosa/NadaMusicBot/tree/pro)
 
-Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
+Pake [String](https://repl.it/@AL241/String-Sesson-Lord#pyproject.toml) pilih 'p' jangan pilih 't' ya asuu
 
 ## Credits
 
