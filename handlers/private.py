@@ -29,7 +29,7 @@ Tambahkan aku ke grup kamu dan mainkan musik dengan bebas!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Tambahkan Ke Grup Anda ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕ Tambahkan Ke Grup Anda ➕", url="https://t.me/NadaAsistenBot?startgroup=true"
                     )]
             ]
         ),
